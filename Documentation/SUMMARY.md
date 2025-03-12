@@ -1,3 +1,3 @@
 # Table of contents
 
-* [SkyWater | Système GNSS](README.md)
+* [SkyWater | Système GNSS et altimètre acoustique](README.md)
